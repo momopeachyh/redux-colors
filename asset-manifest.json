@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redux-colors/static/css/main.073c9b0a.css",
+    "main.js": "/redux-colors/static/js/main.0d464221.js",
+    "static/js/787.132dd057.chunk.js": "/redux-colors/static/js/787.132dd057.chunk.js",
+    "index.html": "/redux-colors/index.html",
+    "main.073c9b0a.css.map": "/redux-colors/static/css/main.073c9b0a.css.map",
+    "main.0d464221.js.map": "/redux-colors/static/js/main.0d464221.js.map",
+    "787.132dd057.chunk.js.map": "/redux-colors/static/js/787.132dd057.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0d464221.js"
+  ]
+}
