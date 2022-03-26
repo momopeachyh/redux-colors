@@ -1,9 +1,11 @@
 import "./App.css";
 import { useSelector } from "react-redux";
-import { showLavender } from "./action/ShowColor";
-import { showSkyBlue } from "./action/ShowColor";
-import { showLemonYellow } from "./action/ShowColor";
-import { showCoral } from "./action/ShowColor";
+import {
+  showLavender,
+  showSkyBlue,
+  showLemonYellow,
+  showCoral,
+} from "./action/ShowColor";
 import { useDispatch } from "react-redux";
 
 function App() {
